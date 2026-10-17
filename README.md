@@ -1,8 +1,18 @@
 # PT-BR Localization Release Checks
 
-A five-case preview for product teams testing Brazilian Portuguese releases.
+Shipping software to Brazil? A translated interface can still fail on Pix flows, dates, currency, form validation, variable handling, tone, and UI expansion.
 
-The sample focuses on failures that often pass ordinary translation review but remain visible to Brazilian users: Portuguese-variant leakage, BRL formatting, Pix terminology, support tone and mobile UI expansion.
+This repository contains five editable PT-BR release-readiness checks in CSV and JSONL so product, localization, and QA teams can test the workflow before release.
+
+> **Start with the free editable preview:** [Download the PT-BR Localization Free Preview](https://payhip.com/b/4fUHo)
+>
+> **Need broader coverage?** The [Brazil Ready QA Starter Pack](https://payhip.com/b/CSdH7) includes 15 structured release checks for **US$9**.
+>
+> **Launch offer:** use code `BRAZILREADY20` for **20% off**. Limited to the first 20 redemptions through October 31, 2026.
+
+## What this sample catches
+
+These are failures that often pass ordinary translation review but remain visible to Brazilian users: Portuguese-variant leakage, BRL formatting, Pix terminology, support tone, and mobile UI expansion.
 
 ## Included cases
 
@@ -27,14 +37,24 @@ The sample focuses on failures that often pass ordinary translation review but r
 3. Apply the acceptance criteria without rewriting them during review.
 4. Treat any failed Critical or High case as a release blocker until corrected and retested.
 
+## Who this is for
+
+- SaaS teams entering Brazil
+- localization and internationalization leads
+- product QA and release managers
+- indie developers validating PT-BR before launch
+- agencies reviewing Brazilian client releases
+
+Each case is designed to be adapted to a real release checklist, not read as generic localization advice.
+
 ## Full Starter Pack
 
-The complete editable workbook contains 15 checks covering language, dates, currency, Pix, installments, CPF, phone numbers, addresses, variables, error recovery and interface behavior.
+The complete editable workbook contains 15 checks covering language, dates, currency, Pix, installments, CPF, phone numbers, addresses, variables, error recovery, and interface behavior.
 
 [Get the 15-check Starter Pack for US$9](https://payhip.com/b/CSdH7)
 
-[Download the editable five-check preview](https://payhip.com/b/4fUHo) · [Brazil Ready QA store](https://payhip.com/BrazilReadyQA)
+[Download the editable five-check preview](https://payhip.com/b/4fUHo) · [Visit the Brazil Ready QA store](https://payhip.com/BrazilReadyQA)
 
 ## Scope
 
-This is a targeted release-risk sample, not a complete localization certification. It is designed for SaaS, apps, checkout flows, support systems and AI products shipping to Brazil.
+This is a targeted release-risk sample, not a complete localization certification. It is designed for SaaS products, mobile apps, checkout flows, support systems, and AI products shipping to Brazil.
